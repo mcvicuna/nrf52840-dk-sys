@@ -1,6 +1,6 @@
 # nRF52dk-sys
 
-This is a (work in progress) rust crate to support the [Nordic nRF52 Development Kit](https://www.nordicsemi.com/eng/Products/Bluetooth-low-energy/nRF52-DK) using Rust.
+This is a FORK of the [jamesmunns/nrf52dk-sys](https://github.com/jamesmunns/nrf52dk-sys) and [eupn/nrf52dk-sys](https://github.com/eupn/nrf52dk-sys) rust crate to in order to add for the support [Nordic nRF52840 Development Kit](https://www.nordicsemi.com/Software-and-Tools/Development-Kits/nRF52840-DK) using Rust.
 
 This crate uses the Nordic SoftDevice S132 (a binary Bluetooth stack), as well as the Nordic SDK (an open source hardware abstraction layer), which are written in C, and provides Rust bindings for those items.
 
